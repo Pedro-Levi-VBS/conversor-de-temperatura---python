@@ -21,5 +21,5 @@ while True:
 
     conversorC = (temperaturaC * 9/5) + 32
     conversorF = (temperaturaF - 32) * 5/9
-    print(f"{temperaturaC}°C = {conversorC}°F")
-    print(f"{temperaturaF}°F = {conversorF}°C")
+    print(f"{temperaturaC}°C = {conversorC:.2f}°F")
+    print(f"{temperaturaF}°F = {conversorF:.2f}°C")
