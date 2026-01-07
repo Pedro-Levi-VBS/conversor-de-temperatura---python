@@ -5,7 +5,7 @@ Um conversor de temperatura simples feito em Python para treinar conceitos funda
 ### 🚀 O que este projeto exercita:
 * Uso de loops com `while`
 * Tratamento de erros com `try / except`
-* Condicionais `if / elif / else`
+* Condicionais `if / elif´
 * Manipulação de tipos de dados (`float`, `input`)
 
 ---
